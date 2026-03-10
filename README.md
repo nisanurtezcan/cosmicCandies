@@ -27,6 +27,7 @@ Here you will meet three sweet cosmic friends:
 * **Candy Cotton**
 * **Caramel Pack**
 * **Rainbow Lolly**
+
 You can click on the planets to discover their personalities and little stories.
 A small reminder from this tiny universe:
 **everyone shines in their own way, our differences are what make us unique.**
