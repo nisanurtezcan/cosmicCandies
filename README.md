@@ -49,7 +49,7 @@ A small reminder from this tiny universe:
 
 * There are still some **responsiveness issues** on different screen sizes
 * Animations could be **smoother**, especially the background picture could be done better
-* The experience is very short — more **interactive elements** could be added
+* More interactive elements could be added, since it is very short
 
 ---
 
